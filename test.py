@@ -29,3 +29,7 @@ def analitik_web(url):
 # Ganti URL berikut dengan URL yang ingin Anda analisis
 url_web = 'https://www.example.com'
 analitik_web(url_web)
+
+
+
+"lorem ipsum dolor sit amet, consectetur adip"
